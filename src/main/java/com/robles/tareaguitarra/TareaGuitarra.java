@@ -12,6 +12,7 @@ package com.robles.tareaguitarra;
 public class TareaGuitarra {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        GuitarString test = new GuitarString(10000);
+	test.pluck();
     }
 }
