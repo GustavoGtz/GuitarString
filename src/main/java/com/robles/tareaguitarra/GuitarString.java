@@ -42,7 +42,10 @@ public class GuitarString {
 			circularBuffer.remove();
 			circularBuffer.add(randomValue);
 		}
-
+	}
+	
+	public double sample() {
+		return circularBuffer.peek();
 	}
 
 }
