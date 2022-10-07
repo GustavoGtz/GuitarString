@@ -3,6 +3,8 @@ package com.robles.tareaguitarra;
 /**
  *
  * @author santiagorobles
+ *         Victor Rios
+ *         Gustavo Gutierrez
  */
 public class TareaGuitarra {
 
