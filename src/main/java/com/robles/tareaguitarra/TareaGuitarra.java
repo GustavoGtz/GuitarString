@@ -15,5 +15,6 @@ public class TareaGuitarra {
         GuitarString test = new GuitarString(10000);
 	test.pluck();
 	    System.out.println("sample: " + test.sample());
+        System.out.println("xd");
     }
 }
