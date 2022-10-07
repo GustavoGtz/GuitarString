@@ -6,7 +6,7 @@ import java.util.Random;
 
 /**
  *
- * @author Santiago Robles Victor Rios Gustavo Gutierrez
+ * @autores Santiago Robles Victor Rios Gustavo Gutierrez
  */
 public class GuitarString {
 
